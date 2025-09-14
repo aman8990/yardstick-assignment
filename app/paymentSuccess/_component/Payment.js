@@ -56,7 +56,7 @@ function Payment() {
         <div className="w-28 flex mx-auto mt-6">
           <Button
             onClick={() => {
-              router.push('/');
+              router.push('/notes');
             }}
           >
             Go to home
