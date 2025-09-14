@@ -1,3 +1,4 @@
+import AccountButton from './AccountButton';
 import AddNote from './AddNote';
 import AddUser from './AddUser';
 import Logo from './Logo';
@@ -8,10 +9,14 @@ function Header() {
   return (
     <div className="flex justify-between items-center px-4 py-5">
       <Logo />
-      <AddUser />
-      <AddNote />
-      <Upgrade />
-      <Logout />
+
+      <div className="flex items-center gap-10">
+        <AddUser />
+        <AddNote />
+        <Upgrade />
+        <AccountButton />
+        <Logout />
+      </div>
     </div>
   );
 }

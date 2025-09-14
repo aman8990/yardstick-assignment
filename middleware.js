@@ -5,5 +5,5 @@ export async function middleware(request) {
 }
 
 export const config = {
-  matcher: ['/notes', '/addNewUser'],
+  matcher: ['/notes', '/addNewUser', '/account'],
 };
