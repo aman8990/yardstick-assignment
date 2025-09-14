@@ -4,7 +4,7 @@ A modern, full-featured notes platform built with Next.js 15, offering secure us
 
 ## 🚀 Live Demo
 
-🔗 [Live Site](https://nextjs-infinity-flix.vercel.app)
+🔗 [Live Site](https://yardstick-assignment-tau.vercel.app/)
 
 ---
 
