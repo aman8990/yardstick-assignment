@@ -64,3 +64,47 @@ project/
 ```
 
 ---
+
+
+# 🧪 Getting Started
+
+Follow these steps to set up the project locally.
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/aman8990/yardstick-assignment.git
+cd nextjs-yardstick-assignment
+```
+
+## 2. Install Dependencies
+
+```bash
+npm install
+```
+
+## 3. Set Up Environment Variables
+
+```bash
+
+NEXT_PUBLIC_SUPABASE_URL=supabase_projecturl
+
+NEXT_PUBLIC_SUPABASE_ANON_KEY=supabase_anon_key
+
+NEXT_PUBLIC_SUPABASE_SERVICE_ROLE=aupabase_service_role_key
+
+STRIPE_SECRET_KEY=your_stripe_secret_key
+STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
+STRIPE_WEBHOOK_SECRET=your_stripe_webhook_key
+
+PROJECT_URL=project_url
+
+```
+
+## 4. Start Development Server
+
+```bash
+npm run dev
+```
+
+---
