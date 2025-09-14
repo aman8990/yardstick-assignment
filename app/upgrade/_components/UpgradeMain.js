@@ -44,7 +44,7 @@ function UpgradeMain({ email }) {
             <tbody>
               <tr className="border-b-2 border-gray-900">
                 <td className="py-2 px-2 md:px-10 font-semibold border-r-2 border-gray-900">
-                  Monthly Price
+                  Price
                 </td>
                 <td className="py-2 px-2 md:px-10">$10.00</td>
               </tr>
