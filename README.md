@@ -74,7 +74,7 @@ Follow these steps to set up the project locally.
 
 ```bash
 git clone https://github.com/aman8990/yardstick-assignment.git
-cd nextjs-yardstick-assignment
+cd yardstick-assignment
 ```
 
 ## 2. Install Dependencies
