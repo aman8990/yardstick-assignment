@@ -1,7 +1,7 @@
 function Button({ children, onClick, type, disabled }) {
   return (
     <button
-      className="flex justify-center font-semibold bg-gray-200 hover:bg-gray-300 text-lg rounded-md p-1 w-full cursor-pointer text-black"
+      className="flex justify-center font-semibold bg-gray-600 text-lg rounded-md p-1 w-full cursor-pointer text-gray-200"
       disabled={disabled}
       type={type}
       onClick={onClick}

@@ -32,7 +32,7 @@ function NewUserForm({ company }) {
       toast.error(`❌ ${result.error}`);
     } else {
       toast.dismiss();
-      toast.success('Logged In');
+      toast.success('User Created Successfully');
     }
 
     setIsCreating(false);
