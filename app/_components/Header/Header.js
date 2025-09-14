@@ -1,4 +1,4 @@
-import AccountButton from './AccountButton';
+import Account from './Account';
 import AddNote from './AddNote';
 import AddUser from './AddUser';
 import Logo from './Logo';
@@ -14,7 +14,7 @@ function Header() {
         <AddUser />
         <AddNote />
         <Upgrade />
-        <AccountButton />
+        <Account />
         <Logout />
       </div>
     </div>
