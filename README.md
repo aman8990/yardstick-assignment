@@ -57,7 +57,8 @@ project/
     ├── (site)/            # App Homepage(Login Page)
     ├── notes/             # All Notes Page
     ├── addNewUser/        # Add New User Page (only accessibler to admins from resp. company)
-    ├── upgrade/           # Upgrade Plan Page 
+    ├── upgrade/           # Upgrade Plan Page
+    ├── account/           # User Info Page 
     ├── layout.js          # Root layout for the app
     ├── globals.css        # Global Tailwind styles
     └── not-found.js       # Custom 404 error page
